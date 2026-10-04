@@ -1,0 +1,8 @@
+streamlit>=1.50
+pandas>=2.0
+sqlalchemy>=2.0
+openpyxl>=3.1
+psycopg2-binary>=2.9      # PostgreSQL (Supabase)
+streamlit-geolocation>=0.0.10   # GPS du smartphone
+twilio>=9.0               # optionnel : envoi automatique WhatsApp/SMS
+tzdata
